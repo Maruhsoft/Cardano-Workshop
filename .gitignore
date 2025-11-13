@@ -1,0 +1,17 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Node / temp
+node_modules/
+npm-debug.log
+
+# Aiken build / temp
+*.o
+*.zip
+dist/
+build/
+
+# PowerShell
+*.ps1xml
