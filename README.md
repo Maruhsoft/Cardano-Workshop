@@ -1,0 +1,2 @@
+## Cardano Workshop
+A hands-on training session designed to introduce developers to the **Cardano blockchain ecosystem**, covering its architecture, **smart contract development using Aiken or Plutus**, and the **core principles of UTXO-based design**. Participants learn how to set up a local Cardano environment, write and deploy on-chain code, interact with off-chain components (APIs, wallets, and transactions), and integrate smart contracts into real-world dApps. The workshop blends theory with guided coding exercises to build practical blockchain solutions on Cardano.
